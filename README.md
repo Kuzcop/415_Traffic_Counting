@@ -4,6 +4,7 @@ Course Final Project to count the number of moving cars, parked cars, and pedest
 
 Our approach uses YOLO (Ultralytics) and Optical Flow, details outlined below. (Grade: 93%)
 
+![](optical_flow.gif)
 ## Implementation Summary
 
 Our solution consist of 2 separate tasks:
